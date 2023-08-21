@@ -1,0 +1,32 @@
+
+
+div{border: 2px solid; 
+    height:830px; width: 600px;
+background-color:rgb(8, 237, 222)}
+
+h1{text-align: center;
+    color:white ;
+    background-color:black;
+    font-size: 36px;}
+
+    img {
+        width: 200px;
+        height:auto;
+        float: left;
+        margin-right: 20px;
+        margin-left: 20px;
+      }
+
+h2{ vertical-align:top;
+    text-align: center;}
+
+    
+    
+    p{
+        padding: 10px;
+    }
+
+   
+
+
+    
